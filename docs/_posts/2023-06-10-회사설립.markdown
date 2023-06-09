@@ -4,26 +4,18 @@ title:  "(주) 프론트하우스 설립 공고"
 date:   2023-06-10 07:30:00 +0900
 categories: notice
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## <center>회사 설립공고</center>
 
-Jekyll requires blog post files to be named according to the following format:
+<br/><br/>
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+본 회사는 2023년 7월 1일 자본금 6억원으로 1주의 금액 100원 주식 600만개로 설립되었습니다. 
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+본사 주소: 서울시 성북구 성북로 7, 나폴레옹과자점 2층
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<br/><br/>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<center>2023년 7월 1일</center>
+<center>주식회사 프론트하우스</center>
+<center>이사 강문영 </center>
