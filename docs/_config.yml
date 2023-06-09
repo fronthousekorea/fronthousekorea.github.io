@@ -18,16 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: (주) 프론트하우스
+# email: fronthousekorea@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+description: |
+  Copyright © 2023 Fronthouse Co., Ltd. All rights reserved.
+  상호명: 주식회사 프론트하우스 
+  사업자번호: ***-**-***** 
+  통신판매업신고번호: ****-****-***** 
+  주소: 서울특별시 성북구 성북로 7, 나폴레옹과자점 2층 
+  대표전화: 02-744-2266 
+  대표자명: 강경원
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima
